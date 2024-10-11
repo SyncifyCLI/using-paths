@@ -1,0 +1,18 @@
+{
+  "example": [
+    {
+      "type": "text",
+      "label": "Title",
+      "id": "title",
+      "default": "Lorem Ipsum",
+      "info": "Some text"
+    },
+    {
+      "type": "text",
+      "id": "url",
+      "label": "URL",
+      "default": "https://syncify.sh",
+      "info": "Syncify Documentation"
+    }
+  ]
+}
