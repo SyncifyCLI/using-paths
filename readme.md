@@ -87,4 +87,70 @@ Below is the example source directory architecture. Consult the `syncify.config.
 │       │   ├── product.json
 │       │   └── search.json
 │       └── theme.liquid
+
+
+
+├── source
+│   ├── assets
+│   ├── blocks
+│   ├── config
+│   ├── layout
+│   ├── locales
+│   ├── schema
+│   ├── sections
+│   ├── snippets
+│   └── templates
+│ 
+├── theme
+│   ├── assets
+│   ├── blocks
+│   ├── config
+│   ├── layout
+│   ├── locales
+│   ├── sections
+│   ├── snippets
+│   └── templates
+│  
+
+├── source
+│   ├── assets
+│   ├── blocks
+│   ├── config
+│   ├── layout
+│   ├── locales
+│   ├── schema
+│   ├── sections
+│   ├── snippets
+│   └── templates
+│ 
+├── stash
+│   └── foo.myshopify.com
+│       ├── dev
+│       │   ├── assets
+│       │   ├── blocks
+│       │   ├── config
+│       │   ├── layout
+│       │   ├── locales
+│       │   ├── sections
+│       │   ├── snippets
+│       │   └── templates
+│       └── xxx
+│           ├── assets
+│           ├── blocks
+│           ├── config
+│           ├── layout
+│           ├── locales
+│           ├── sections
+│           ├── snippets
+│           └── templates
+├── theme
+│   ├── assets
+│   ├── blocks
+│   ├── config
+│   ├── layout
+│   ├── locales
+│   ├── sections
+│   ├── snippets
+│   └── templates
+│  
 ```

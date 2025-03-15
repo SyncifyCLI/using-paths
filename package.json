@@ -13,7 +13,7 @@
     }
   },
   "devDependencies": {
-    "@syncify/cli": "workspace:^",
+    "@syncify/cli": "link:../../..",
     "autoprefixer": "^10.4.20",
     "esbuild": "^0.24.0",
     "postcss": "^8.4.47",
